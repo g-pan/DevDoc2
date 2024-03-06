@@ -22,4 +22,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pharetra urna a sem 
 
 [panageotech.com] Or is this?
 
-[Pro Props] (proprops.net) maybe this (url in parens) 
+[Pro Props] (http://proprops.net) maybe this (url in parens) 
