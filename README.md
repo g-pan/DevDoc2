@@ -23,3 +23,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pharetra urna a sem 
 [panageotech.com] Or is this?
 
 [Pro Props] (http://proprops.net) maybe this (url in parens) 
+
+HPCC Development Team Wiki : <https://reedelsevier.sharepoint.com/:o:/r/sites/OG-HPCCPlatformTeam/SiteAssets/OG-HPCC%20Platform%20Team%20Notebook?d=wbadf11fdaa0145838b644423ace873c9&csf=1&web=1&e=auJI6x>
