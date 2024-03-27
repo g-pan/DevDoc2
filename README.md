@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pharetra urna a sem 
 
 <https://hpccsystems.com>
 
-[panageotech.com] Or is this?
+[Link JIRA](https://hpccsystems.atlassian.net/)
 
 [Pro Props] (http://proprops.net) maybe this (url in parens) 
 
