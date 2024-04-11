@@ -1,10 +1,11 @@
 # Documentation Development site 
 This is the 2nd Doc Development Repository built using GitHub Pages
-Using a 'familiar' theme (leap-day)
+Using a the free github leap-day theme. 
 
-## H2 Sample Topic! 
-As this site is built using GitHub Pages - it is publically available to everyone. 
-Below is some sample code and links that are available to everyone including links to the internal only developer sites.  
+## HPCC Systems Development Sharepoint 
+New SharePoint site for the HPCC Systems Platform Development team: 
+
+[HPCC Systems Platform](https://reedelsevier.sharepoint.com/sites/HPCCSystemsPlatform)
 
 ### Level III Heading 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pharetra urna a sem blandit, vel rhoncus est iaculis. Donec blandit malesuada risus. Donec ut ornare odio, non efficitur magna. Ut nec volutpat nunc. Cras accumsan nunc non rhoncus ullamcorper. Sed in pulvinar ex. Praesent consequat risus vitae vulputate imperdiet. Donec bibendum dictum ante eu suscipit. Sed commodo ante diam, congue iaculis magna maximus vitae. Etiam ultrices pellentesque mi id porttitor. Aenean et euismod orci, quis efficitur tellus. Pellentesque aliquet tortor venenatis velit aliquam, et aliquam ligula eleifend.
@@ -31,8 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pharetra urna a sem 
   </tr>
 </table>
 
-#### Is this a link?
-
+#### HELPFUL LINKS
 <https://hpccsystems.com>
 
 [Link JIRA](https://hpccsystems.atlassian.net/)
