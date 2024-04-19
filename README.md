@@ -7,8 +7,9 @@ New SharePoint site for the HPCC Systems Platform Development team:
 
 [HPCC Systems Platform](https://reedelsevier.sharepoint.com/sites/HPCCSystemsPlatform)
 
-### Level III Heading 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pharetra urna a sem blandit, vel rhoncus est iaculis. Donec blandit malesuada risus. Donec ut ornare odio, non efficitur magna. Ut nec volutpat nunc. Cras accumsan nunc non rhoncus ullamcorper. Sed in pulvinar ex. Praesent consequat risus vitae vulputate imperdiet. Donec bibendum dictum ante eu suscipit. Sed commodo ante diam, congue iaculis magna maximus vitae. Etiam ultrices pellentesque mi id porttitor. Aenean et euismod orci, quis efficitur tellus. Pellentesque aliquet tortor venenatis velit aliquam, et aliquam ligula eleifend.
+### A Level III Heading 
+This is a development site for proof of concept of hosting the readme.md files located on our GitHub Repository by enabling GitHub Pages and configuring the pages to display the readme content as a web page. Using GitHub Pages allows us to apply templates to format the readme pages by declaring which template to use this page is rendered using the "leap-day" theme. 
+Alternatively you can choose to use an HTML file or files as your GitHub Pages - simply by configuring the GitHub Pages to use a specified HTML file. If you own the repo the naming convention will be <your_username>.github.io/<Repo_Name>  for example my username is g-pan and this repo is DevDoc2. This url is g-pan.github.io/DevDoc2 
 
 ### Sample of HTML on md
 <dl>
